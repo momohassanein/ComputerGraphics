@@ -14,3 +14,5 @@ To use program use these key
 (5) (e) to zoom in 
 (6) (q) to zoom out 
 
+iam use code blocks and libraries  glut 
+
